@@ -7,7 +7,7 @@ def get_digit(digit):
     new = current + str(digit)
     result_label.config(text=new)
 
-def clear():
+def clear()
     result_label.config(text='')
 
 def get_operator(op):
