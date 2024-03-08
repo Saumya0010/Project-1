@@ -1,4 +1,4 @@
-from tkinter  *
+from tkinter import  *
 
 first_number=second_number=operator=None
 
